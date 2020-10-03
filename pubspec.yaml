@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  shake: ^0.1.0
 
   cupertino_icons: ^0.1.2
 
@@ -22,3 +23,8 @@ flutter:
 
   assets:
     - images/
+
+  fonts:
+    - family: Architects Daughter
+      fonts:
+        - asset: fonts/ArchitectsDaughter-Regular.ttf
